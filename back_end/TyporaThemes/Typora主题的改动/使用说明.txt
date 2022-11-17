@@ -1,2 +1,2 @@
 electronic.css、electronic_font一个是自定义样式文件一个是字体文件，二者都是存放于主题文件夹：C:\Users\Administrator\AppData\Roaming\Typora\themes，可在Typora的偏好设置→外观中打开主题文件夹
-base.css和window.css存放于Typora安装位置的resources\style目录下，覆盖即可
+base.css和window.css和base-control.css存放于Typora安装位置的resources\style目录下，覆盖即可
